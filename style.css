@@ -11,7 +11,7 @@ a {
 
 body {
   text-align: center;
-  background-image: url(images/left.png);
+  background-image: url(http://24.media.tumblr.com/tumblr_mav9kqyP8B1rypm3wo1_500.jpg);
   background-repeat: no-repeat;
   background-color: #B4045F;
   color: #A9A9F5;
@@ -238,7 +238,7 @@ body {
 }
 
 .front {
-  background: url(./images/card.png) 0 0;
+  background: url() 0 0;
   z-index: 10;
   border-radius: 4px;
 }
