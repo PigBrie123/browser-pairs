@@ -100,14 +100,14 @@ body {
 /* These styles create the images on the cards. We're using a path to the images
    included in a directory in our game, but you can also use an image that is
    hosted anyhwere on the internet by using its url in the "url()" rule. */
-.ie {background: url(http://25.media.tumblr.com/tumblr_lyaww99KPz1rnw9a0o1_500.jpg) no-repeat; background-size: contain;}
-.fx {background: url(./images/fx.png) no-repeat; background-size: contain;}
-.cr {background: url(./images/cr.png) no-repeat; background-size: contain;}
-.sf {background: url(./images/sf.png) no-repeat; background-size: contain;}
-.op {background: url(./images/op.png) no-repeat; background-size: contain;}
-.ns {background: url(./images/ns.png) no-repeat; background-size: contain;}
-.tb {background: url(./images/tb.png) no-repeat; background-size: contain;}
-.fm {background: url(./images/fm.png) no-repeat; background-size: contain;}
+.ie {background: url(http://i2.squidoocdn.com/resize/squidoo_images/590/draft_lens17811016module149314111photo_1301870908pig-bouquet.jpg) no-repeat; background-size: contain;}
+.fx {background: url(http://cdn.cutestpaw.com/wp-content/uploads/2012/12/l-Pig.jpg) no-repeat; background-size: contain;}
+.cr {background: url(http://pinkbluelovescute.com/wp-content/uploads/2012/08/Funny-Kitty-competing-for-space-with-pigs.jpeg) no-repeat; background-size: contain;}
+.sf {background: url(http://farm6.staticflickr.com/5261/5618604540_265eb0f409_z.jpg) no-repeat; background-size: contain;}
+.op {background: url(http://rlv.zcache.com/cute_pink_pig_pattern_iphone_4_4s_case-reb203f1e830b49568d94becf26aea799_a4643_8byvr_512.jpg) no-repeat; background-size: contain;}
+.ns {background: url(http://cutearoo.com/wp-content/uploads/2012/09/Pig.jpg) no-repeat; background-size: contain;}
+.tb {background: url(http://farm5.staticflickr.com/4026/4484092181_db1b2e1334_z.jpg) no-repeat; background-size: contain;}
+.fm {background: url(http://my-popart-portrait.com/images/oink_cute_cartoon_pig_mousepad-p144992388391907881z7br1_328.jpg) no-repeat; background-size: contain;}
 
 
 /* The .reset class is added to the cards when the game is reset */
