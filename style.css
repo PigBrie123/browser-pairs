@@ -6,15 +6,15 @@
 a {
   outline: none;
   text-decoration:none;
-  color: #DA4930;
+  color: #FE2E64;
 }
 
 body {
   text-align: center;
   background-image: url(images/left.png);
   background-repeat: no-repeat;
-  background-color: #F26522;
-  color: #DA4930;
+  background-color: #5FB404;
+  color: #A9A9F5;
   font-family: "Days One", sans-serif;
 }
 
@@ -25,13 +25,15 @@ body {
   left: 0;
   bottom: 0;
   right: 0;
-  background: #001711;
+  background: #086A87;
   width: 255px;
   height: 420px;
   margin: auto;
   display: block;
   box-shadow: 0px 3px 12px #000;
   background: #001711;
+  border: dotted;
+  border-color: #FE9A2E;
   border-radius: 4px;
   padding: 10px;
 }
